@@ -1,0 +1,84 @@
+I. Introdution
+
+  There are lots of things to vote for and lots of ways to count the votes
+
+  This is not about the Electoral College, where Hillary Clinton got at
+  least 600,000 more votes than Donald Trump, yet still did not win the
+  election.
+
+A. Things to vote for
+
+  1. People:
+
+     a. Single seat: President, Senator, Member of House of Representatives
+
+     b. Multiple seat: Board of Supervisors, City Council
+
+  2. Things
+
+     a. Oscars
+
+     b. Grammys
+
+     c. Newbery and Caldecott Medal
+
+     d. Customer Satisfaction Surveys
+
+B. Ways to count the votes
+
+  There are at least 12 distinctly different ways of counting votes,
+  with numerous variations!  Which one is best?
+
+  To make things even more confusing there are no commonly agreed upon
+  names for all the different systems.
+
+  Well, remember, we're trying to build a "more" perfect union, but
+  there is no perfect system.  Every system has its flaws.
+
+  There are three broad classes of systems
+
+  1. Proportional Representation Systems
+
+  multi-member bodies
+
+  2. Mixed Member Systems
+
+  multi-member bodies
+
+  3. Plurality/Majoritarian systems
+
+  single-seat
+
+II. Focus on Plurality/Majoritarian
+
+  1. First Past the Post
+
+     Candidate who receives more votes than any other candidate wins
+
+  2. Two-round system
+
+     Like first past the post, but if no candidate has an absolute
+     majority (> 50% of the votes) a second round is triggered using the
+     top two vote getters as candidates.  
+
+  3. Instant Runoff
+
+     Rank your candidates in decreasing order of desirability
+
+  4. Score voting
+
+     a. score the each candidate on a scale
+
+        1 - 10
+
+        0 - 5 stars
+
+     b. approval voting: each candidate gets zero or one vote
+
+III. Example: Vote for your favorite Pokemon two ways
+
+  1. Using first past the post
+
+  2. Using Instant Runoff Voting
+
+  
